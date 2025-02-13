@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #fffffff3;
 }
 
 h1 {
@@ -13,3 +13,67 @@ footer {
 .nav-link {
     color: #ffffff;
 }
+
+.feature-icon {
+    font-size: 3rem;
+    color: #ff5722;
+}
+.about-text {
+    max-width: 800px;
+    margin: auto;
+}
+
+.hero-section {
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+
+/* Subscriptions Page Specific Styles */
+.pricing-section {
+    /* Adjust vertical padding if needed */
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+  }
+  
+  .card-price {
+    margin: 20px 0;
+    font-size: 2rem;
+  }
+  
+  .btn-block {
+    width: 100%;
+  }
+  
+  .testimonial-section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #f8f9faba;
+  }
+  
+  .testimonial-section h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  
+  .testimonial-section p {
+    font-size: 1rem;
+    font-style: italic;
+  }
+  /* How It Works Section */
+.how-it-works {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  .how-it-works .step-icon {
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  /* Navbar adjustments */
+  .navbar .nav-link.active {
+    font-weight: bold;
+  }
+  
